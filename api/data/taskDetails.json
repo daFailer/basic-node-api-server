@@ -1,32 +1,26 @@
 {
   "550e8400-e29b-41d4-a716-446655440000": {
-    "title": "Refactor login component",
-    "description": "Improve readability and split into smaller subcomponents.",
-    "assignedTo": "Alice",
-    "created": "2025-04-16T10:00:00Z"
+      "title": "Refactor login component",
+      "description": "Improve readability and split into smaller subcomponents.",
+      "assignedTo": "Alice",
+      "created": "2025-04-16T10:00:00Z"
   },
   "550e8400-e29b-41d4-a716-446655440001": {
-    "title": "Write unit tests for reducers",
-    "description": "Ensure all edge cases are covered.",
-    "assignedTo": "Bob",
-    "created": "2025-04-14T09:30:00Z"
+      "title": "Write unit tests for reducers",
+      "description": "Ensure all edge cases are covered.",
+      "assignedTo": "Bob",
+      "created": "2025-04-14T09:30:00Z"
   },
   "550e8400-e29b-41d4-a716-446655440002": {
-    "title": "Design settings page",
-    "description": "Create mockups and basic layout implementation.",
-    "assignedTo": "Charlie",
-    "created": "2025-04-12T13:20:00Z"
+      "title": "Design settings page",
+      "description": "Create mockups and basic layout implementation.",
+      "assignedTo": "Charlie",
+      "created": "2025-04-12T13:20:00Z"
   },
   "550e8400-e29b-41d4-a716-446655440003": {
-    "title": "Update dependencies",
-    "description": "Check and update all npm dependencies to latest versions.",
-    "assignedTo": "Diana",
-    "created": "2025-04-17T08:45:00Z"
-  },
-  "cb7b2967-8beb-4542-98df-e161213082bd": {
-    "title": "New title",
-    "description": "Lorem ipsum dolar",
-    "assignedTo": "Michael",
-    "created": "2025-04-18T17:11:21.460Z"
+      "title": "Update dependencies",
+      "description": "Check and update all npm dependencies to latest versions.",
+      "assignedTo": "Diana",
+      "created": "2025-04-17T08:45:00Z"
   }
 }
